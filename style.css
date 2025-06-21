@@ -22,7 +22,7 @@
 
 /* HTML Base Styles */
 html {
-    font-size: 60%; /* Sets base font size, allowing for responsive scaling with rem units */
+    font-size: 70%; /* Sets base font size, allowing for responsive scaling with rem units */
     overflow-x: hidden; /* Prevents horizontal scrolling */
 }
 
